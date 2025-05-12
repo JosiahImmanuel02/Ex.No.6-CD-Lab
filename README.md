@@ -52,7 +52,8 @@ return 0;
 ```
 ## OUTPUT:
 
-![Screenshot 2025-04-16 113357](https://github.com/user-attachments/assets/48c7ee7c-0b26-40e1-8f23-92f57abf67e6)
+![Screenshot 2025-05-07 054339](https://github.com/user-attachments/assets/b2fc9e7b-36bb-4ed6-930a-62563f4ca004)
+
 
 ## RESULT:
 The back end of the compiler is implemented successfully, and the output is verified.
